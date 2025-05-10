@@ -1,1 +1,3 @@
-/lstm
+# Ignore the virtual environment folder
+myenv/
+lstm/
